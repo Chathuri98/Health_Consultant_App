@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705590311355",
+    "project_id": "fir-getx-app-cc5f9",
+    "storage_bucket": "fir-getx-app-cc5f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705590311355:android:f78e205bc9345e596aec9e",
+        "android_client_info": {
+          "package_name": "com.example.doctor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705590311355-lvhavdf68hq5v9s5sl8fjvie65veq5g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiPpXDTHffZvOfMa392AADmNypg1UNzIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705590311355-lvhavdf68hq5v9s5sl8fjvie65veq5g5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
